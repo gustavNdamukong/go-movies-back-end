@@ -1,5 +1,7 @@
 ## Movies management app in React.js & Golang
 
+### This is the backend (in Golang)
+
 * Features
 
     * View all movies
